@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Dotnet 10/">
+    <Project Path="src/Dotnet-10-Api/Dotnet-10-Api.csproj" Id="d35f73d7-fff2-4dbc-9e1a-0c372bae4c50" />
+    <Project Path="src/Dotnet-10-Proj/Dotnet-10-Proj.csproj" Id="1c65fa89-de9e-4b53-93b9-02ea6c2a2594" />
+    <Project Path="src/Dotnet-10-Way/Dotnet-10-Way.csproj" />
+  </Folder>
+  <Folder Name="/Dotnet 11/">
+    <Project Path="src/Dotnet-11-Api/Dotnet-11-Api.csproj" Id="fc015673-2aa6-4d73-b8ba-b431439990e2" />
+    <Project Path="src/Dotnet-11-Changes/Dotnet-11-Changes.csproj" />
+    <Project Path="src/Dotnet-11-Proj/Dotnet-11-Proj.csproj" Id="a6523181-66bd-4b9c-8f77-f5e856a2aa72" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+</Solution>

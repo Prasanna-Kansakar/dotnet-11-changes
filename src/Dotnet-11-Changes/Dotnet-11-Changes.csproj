@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net11.0</TargetFramework>
+    <RootNamespace>Dotnet_11_Changes</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+    <PropertyGroup>
+	    <Features>runtime-async=on</Features>
+    </PropertyGroup>
+	
+  <ItemGroup>
+    <Folder Include="AsyncValidation\" />
+    <Folder Include="ClosedHiearchy\" />
+    <Folder Include="ExtensionIndexer\" />
+    <Folder Include="LabeledLoops\" />
+  </ItemGroup>
+
+</Project>
